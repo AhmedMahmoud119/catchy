@@ -1,0 +1,33 @@
+.status-wc-pending{
+    background-color: #0a6aa1;
+}
+
+.status-wc-processing{
+    background-color: #00ff89;
+}
+.status-wc-on-hold{
+    background-color: #f5ff00;
+}
+
+.status-wc-completed{
+    background-color: #00ff04;
+    color: white;
+}
+.status-wc-cancelled{
+    background-color: #ff0000;
+    color: white;
+}
+.status-wc-refunded{
+    background-color: #ff0000;
+    color: white;
+}
+.status-wc-failed{
+    background-color: #00ffb7;
+}
+.status-wc-checkout-draft{
+    background-color: #b0b0b0;
+}
+
+.status-wc-in-shipping{
+    background-color: #6c95ff;
+}
